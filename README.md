@@ -27,7 +27,7 @@
 
 ## 📊 Visuals
 ### [!! PLACEHOLDER !!](PLACEHOLDER-LINK)
-<p align="center"><img src="PLACEHOLDER-IMG" width="70%">
+<p align="center"><img src="PLACEHOLDER-IMAGE" width="70%">
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-table-of-contents)
 <br>
