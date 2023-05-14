@@ -21,6 +21,7 @@
 
 ## 🖋 About Data Slices
 > Introducing "<mark><b>Data Slices</b></mark>", a captivating mini visualization series crafted using the power of <mark>Python's matplotlib, seaborn, and other cutting-edge visualization libraries</mark>. Prepare to embark on a journey where the ordinary is transformed into the extraordinary through the art of data visualization. Each visualization in this series is meticulously curated to showcase <mark>the hidden beauty and fascinating insights that lie within seemingly mundane data</mark>. From visualizing the rhythmic patterns of rainfall to unraveling the intricacies of social media trends, "Data Slices" invites you to explore the captivating intersections of data and aesthetics.
+
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-table-of-contents)
 <br>
 
@@ -34,10 +35,10 @@
 ## 🙌 Support Me
 If this series has captured your interest, I would greatly appreciate your support in the form of stars on the repository. Additionally, you have the option to contribute through Ko-Fi, where every donation acts as a powerful motivator for me to enhance and expand the content I provide. Together, we can nurture this creative journey and continue to bring you captivating visualizations that inspire and delight.<br>
 <center>
-    <span style="font-family: Segoe UI; font-style: italic; font-weight: 700; font-size: 11px; padding: 7px; text-align: center; line-height: 1.2;"><u>Support me on:</u></span><br>
+    <span style="font-style: italic; font-weight: 700; font-size: 11px; padding: 7px; text-align: center; line-height: 1.2;"><u>Support me on:</u></span><br>
     <span style="margin: 0; text-align: center; justify-content: center; align-items: center;">
         <a href='https://ko-fi.com/D1D3JU963' target='_blank'><img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Support me on Ko-fi Button'/></a></span><br>
-    <span style="font-family: Segoe UI; font-style: italic; font-weight: 700; font-size: 11px; padding: 7px; text-align: center; line-height: 1.2;"><u>Follow me in other platform:</u></span><br>
+    <span style="font-style: italic; font-weight: 700; font-size: 11px; padding: 7px; text-align: center; line-height: 1.2;"><u>Follow me in other platform:</u></span><br>
     <div align="center" style="margin: 0; padding: 10px; text-align: center; justify-content: center; align-items: center;">
         <ul style="list-style: none;">
             <li style="margin: 0 20px 20px 0; vertical-align: top; list-style: none outside none; display: inline-block;"><a style="position: relative;" href="https://www.kaggle.com/caesarmario"><img style="width: 25px; filter: invert(100%)" src="https://i.imgur.com/K6QyzaJ.png"></a></li>
@@ -47,6 +48,5 @@ If this series has captured your interest, I would greatly appreciate your suppo
             <li style="margin: 0 20px 20px 0; vertical-align: top; list-style: none outside none; display: inline-block;"><a style="position: relative;" href="https://www.linkedin.com/in/caesarmario"><img style="width: 25px; filter: invert(100%)" src="https://i.imgur.com/vVYd0aI.png"></a></li>
             <li style="margin: 0 20px 20px 0; vertical-align: top; list-style: none outside none; display: inline-block;"><a style="position: relative;" href="https://twitter.com/caesarmario_"><img style="width: 25px; filter: invert(100%)" src="https://i.imgur.com/kEE4YJx.png"></a></li>
         </ul>
-    </div>
     <img src="https://i.imgur.com/nPAWmQf.png" width=10% alt="WM">
 </center>
