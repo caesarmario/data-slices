@@ -23,8 +23,12 @@
 <br>
 
 ## 📊 Visuals
+<details>
+<summary>
 ### [!! PLACEHOLDER !!](PLACEHOLDER-LINK)
+</summary>
 <p align="center"><img src="PLACEHOLDER-IMG" width="70%">
+</details><br>
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-table-of-contents)
 <br>
