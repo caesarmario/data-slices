@@ -23,11 +23,9 @@
 <br>
 
 ## 📊 Visuals
-<details>
-<summary>
-### [!! PLACEHOLDER !!](PLACEHOLDER-LINK)
-</summary>
-<p align="center"><img src="PLACEHOLDER-IMG" width="70%">
+<details><summary>20230617 - Tech Titans A Year of Stock Evolution</summary>
+<p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20230617/data_slices_s01e01_page01.jpg?raw=true" width="70%">
+<p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20230617/data_slices_s01e01_page02.jpg?raw=true" width="70%">
 </details><br>
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-table-of-contents)
