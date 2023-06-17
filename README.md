@@ -23,7 +23,7 @@
 <br>
 
 ## 📊 Visuals
-<details><summary>20230617 - Tech Titans A Year of Stock Evolution</summary>
+<details open><summary>20230617 - Tech Titans A Year of Stock Evolution</summary>
 <p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20230617/data_slices_s01e01_page01.jpg?raw=true" width="70%">
 <p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20230617/data_slices_s01e01_page02.jpg?raw=true" width="70%">
 </details><br>
