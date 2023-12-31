@@ -28,9 +28,9 @@
 <p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20230617/data_slices_s01e01_page02-min.jpg?raw=true" width="70%">
 </details><br>
 
-<details open><summary>20231108 - SOON™</summary>
-<p align="center"><img src="SOON™" width="70%">
-<p align="center"><img src="SOON™" width="70%">
+<details open><summary>20231108 - A 365 Day Emotional Journey in Color</summary>
+<p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20231108/data_slices_s01e02_mood_calendar-min.png?raw=true" width="70%">
+<p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20231108/data_slices_s01e02_mood_report-min.png?raw=true" width="70%">
 </details><br>
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-table-of-contents)
