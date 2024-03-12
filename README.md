@@ -28,13 +28,16 @@
 <p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20230617/data_slices_s01e01_page02-min.jpg?raw=true" width="70%">
 </details><br>
 
-<details open><summary>20231108 - A 365 Day Emotional Journey in Color</summary>
+<details><summary>20231108 - A 365 Day Emotional Journey in Color</summary>
 <p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20231108/data_slices_s01e02_mood_calendar-min.png?raw=true" width="70%">
 <p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20231108/data_slices_s01e02_mood_report-min.png?raw=true" width="70%">
 </details><br>
 
-<details><summary>202301xx - SOON™</summary>
-<p align="center"><img src="" width="70%">
+<details open><summary>20240124 - Titanic Chronology</summary>
+<p align="center"><img src="https://raw.githubusercontent.com/caesarmario/data-slices/main/20240124/data_slices_s01e03_titanic_timeline-min.png" width="70%">
+</details><br>
+
+<details><summary>202401xx - SOON™</summary>
 <p align="center"><img src="" width="70%">
 </details><br>
 
