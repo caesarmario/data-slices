@@ -33,11 +33,16 @@
 <p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20231108/data_slices_s01e02_mood_report-min.png?raw=true" width="70%">
 </details><br>
 
-<details open><summary>20240124 - Titanic Chronology</summary>
+<details><summary>20240124 - Titanic Chronology</summary>
 <p align="center"><img src="https://raw.githubusercontent.com/caesarmario/data-slices/main/20240124/data_slices_s01e03_titanic_timeline-min.png" width="70%">
 </details><br>
 
-<details><summary>202401xx - SOON™</summary>
+<details open><summary>20240304 - Elemental Insight: Pokémon Type and Base Stats</summary>
+<p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20240304/s01e04_png/countmap/data_slices_s01e04_pokemontypecount-min.gif?raw=true" width="70%">
+<p align="center"><img src="https://github.com/caesarmario/data-slices/blob/main/20240304/s01e04_png/spiderplot/data_slices_s01e04_spiderplotpokemon-min.png?raw=true" width="70%">
+</details><br>
+
+<details><summary>20240xxxx - SOON™</summary>
 <p align="center"><img src="" width="70%">
 </details><br>
 
